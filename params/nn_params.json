@@ -1,0 +1,1 @@
+{"diab": {"hidden_layer_sizes": 40, "random_state": 0, "max_iter": 150}, "heart": {"hidden_layer_sizes": 25, "random_state": 0}}

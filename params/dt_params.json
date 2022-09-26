@@ -1,0 +1,1 @@
+{"diab": {"max_depth": 3, "min_samples_leaf": 2, "max_features": 19, "random_state": 0}, "heart": {"max_depth": 4, "min_samples_leaf": 9, "max_features": 8, "random_state": 0}}

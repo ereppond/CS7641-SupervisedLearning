@@ -1,0 +1,1 @@
+{"diab": {"kernel": "rbf", "C": 180, "random_state": 0}, "heart": {"kernel": "poly", "C": 140, "random_state": 0}}
